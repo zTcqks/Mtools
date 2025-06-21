@@ -18,9 +18,9 @@ No requiere instalación, simplemente entra a la página y comienza a usar 🚀
 Creadores
 
 - *Devs*
-    - zTcqks (Desarrollador principal, 19 años) 💻
+    - zTcqks (Desarrollador principal, 15 años) 💻
         - Experto en: Python, Java, Javascript, HTML, C++, CSS, PHP, Ruby
-    - Zomy (Diseñadora y colaboradora, 18 años) 🎨
+    - Zomy (Diseñadora y colaboradora, 16 años) 🎨
         - Experta en: Python, Java, Javascript, HTML, CSS, PHP
 
 Presentado por
