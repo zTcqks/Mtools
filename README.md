@@ -1,2 +1,28 @@
-# Mtools
-🎓 Mtools 🚧 Herramienta de ayuda matemática en desarrollo (fase beta) 🤔 ✨ Cálculos precisos y soluciones matemáticas al alcance de un clic 📊 📚 Aprende, explora y resuelve con facilidad 💡 ¡Únete a la comunidad y ayuda a mejorar Mtools! 🚀  Proudly presented by: S3 🎯
+#Mtools 🚧
+
+*Herramienta de ayuda matemática en desarrollo (fase beta) 🤔*
+
+¿Qué es Mtools?
+
+Mtools es una herramienta matemática versátil con varias opciones para resolver problemas y cálculos 📊.
+
+Uso
+
+- Entra a la página y comienza a explorar 🤔
+- Selecciona la opción que necesitas y listo 🎉
+
+Instalación
+
+No requiere instalación, simplemente entra a la página y comienza a usar 🚀
+
+Creadores
+
+- *Devs*
+    - zTcqks (Desarrollador principal, 19 años) 💻
+        - Experto en: Python, Java, Javascript, HTML, C++, CSS, PHP, Ruby
+    - Zomy (Diseñadora y colaboradora, 18 años) 🎨
+        - Experta en: Python, Java, Javascript, HTML, CSS, PHP
+
+Presentado por
+
+S3 🎯
